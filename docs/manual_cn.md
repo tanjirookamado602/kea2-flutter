@@ -716,7 +716,7 @@ https://github.com/user-attachments/assets/f0e5c116-03da-41b0-8f12-c62620fc09a8
 
 Kea2 通过扩展插件 `u2_flutter` 支持 Flutter 应用的自动化 UI 测试与属性测试。
 
-u2_flutter 仓库地址：https://github.com/assassinaj602/u2_flutter
+u2_flutter 仓库地址：https://github.com/tanjirookamado602/u2_flutter
 
 前置要求：安装 `u2_flutter` 库：
 ```bash

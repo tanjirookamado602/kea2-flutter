@@ -738,7 +738,7 @@ https://github.com/user-attachments/assets/f0e5c116-03da-41b0-8f12-c62620fc09a8
 
 Kea2 supports Flutter application testing via the external `u2_flutter` extension plugin. It enables interaction with Flutter widgets and DiagnosticableTree hierarchy during property testing.
 
-u2_flutter GitHub Repository: https://github.com/assassinaj602/u2_flutter
+u2_flutter GitHub Repository: https://github.com/tanjirookamado602/u2_flutter
 
 Prerequisites: Ensure `u2_flutter` is installed:
 ```bash
